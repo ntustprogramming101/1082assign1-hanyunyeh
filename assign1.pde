@@ -1,11 +1,3 @@
-/* @pjs preload=
-"img/bg.jpg,
-img/groundhog.png,
-img/life.png,
-img/robot.png,
-img/soil.png,
-img/soldier.png"; */
-
 int soldierX,soldierY,soldierSpeed;
 int robotX,robotY;
 int lightStartX,lightStartY,lightEndX,LIGHT_W;
