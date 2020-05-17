@@ -82,8 +82,8 @@ void draw() {
   //restart the light
   if(robotX-lightStartX >=185)
   {
-  lightStartX = robotX+25;
-  lightEndX = robotX+25;
+  lightStartX = robotX;
+  lightEndX = robotX;
   }
 
 }
